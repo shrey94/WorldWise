@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "4b70",
+      "cityName": "Boston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-03-26T01:42:54.219Z",
+      "notes": "",
+      "position": {
+        "lat": "42.407234661551875",
+        "lng": "-71.01562500000001"
+      }
     }
   ]
 }
