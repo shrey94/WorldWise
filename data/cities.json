@@ -25,27 +25,27 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "4b70",
-      "cityName": "Boston",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2025-03-26T01:42:54.219Z",
+      "id": "5068",
+      "cityName": "’Ain Ben Khelil",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-03-29T18:04:47.839Z",
       "notes": "",
       "position": {
-        "lat": "42.407234661551875",
-        "lng": "-71.01562500000001"
+        "lat": "33.247875947924385",
+        "lng": "-0.6811523437500001"
+      }
+    },
+    {
+      "id": "12da",
+      "cityName": "St. Louis",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-03-29T18:05:08.533Z",
+      "notes": "",
+      "position": {
+        "lat": "38.75408327579141",
+        "lng": "-90.21972656250001"
       }
     }
   ]
